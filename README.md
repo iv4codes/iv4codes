@@ -20,8 +20,6 @@ I'm a 16-year-old iOS developer passionate about building beautiful, functional 
 AstroSounds is a unique application, allowing users to experience the cosmos through sound generation of celestial data and AR visualisations
 **Technologies:** Swift, SwiftUI, AudioKit, AVFoundation, ARKit  
 **GitHub:** https://github.com/iv4codes
-![space app screenshot](images/ASSc1.png)
-![space app second screenshot](images/ASSc2.png)
 
 ---
 

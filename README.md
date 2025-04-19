@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I’m Ivayla – iOS Developer
 
-<!--
-**iv4codes/iv4codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 16-year-old iOS developer passionate about building beautiful, functional apps using **Swift & SwiftUI**. I enjoy turning ideas into real products and solving real-world problems with clean code and good design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Swift & SwiftUI
+- Xcode
+- Firebase (Authentication, Firestore, Realtime DB)
+- REST API integration
+- UI/UX Design
+- Git / GitHub
+
+---
+
+## 💼 Projects
+
+### 🚀 AstroSounds
+AstroSounds is a unique application, allowing users to experience the cosmos through sound generation of celestial data and AR visualisations
+**Technologies:** Swift, SwiftUI, AudioKit, AVFoundation, ARKit  
+**GitHub:** https://github.com/iv4codes
+![space app screenshot](images/ASSc1.png)
+![space app second screenshot](images/ASSc2.png)
+
+---
+
+## 📬 Contact Me
+I’m available for freelance projects or part-time collaborations.  
+Let’s work together!
+
+- 📧 Email: ivayladimitrova055@icloud.com  
+- 🐙 GitHub: https://github.com/iv4codes
+- 🧠 Reddit: u/jeff_atari 
